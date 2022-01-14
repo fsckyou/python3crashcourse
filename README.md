@@ -14,7 +14,7 @@ Much of this material is derived or borrowed from https://python.land . Their co
 7. First Program
 8. Comments
 9. Pip & Libraries
-10. Fun little projects
+10. Fun projects
 
 ## License
 The original portions of this course are provided under an MIT license.
