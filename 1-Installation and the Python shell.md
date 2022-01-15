@@ -10,19 +10,19 @@ Using the Microsoft Store, search for Python 3 and install the latest release
 Go download the official installer from the [Python download website](https://www.python.org/downloads/)
 ### Linux
 Check what's installed first
-```
+```sh
 $ python3 --version 
 ```
 If you get a version number, then you're good. Otherwise, follow a guide like this [one](https://docs.python-guide.org/starting/install3/linux/) 
 
 You should also install a few more packages to have a good setup
-```
+```sh
 $ sudo apt install -y build-essential libssl-dev libffi-dev python3-dev python3-pip
 ```
 
 ##  The Python shell
 Python offers an interactive shell where you can run commands line by line and get results in realtime. Run this command to access the Python shell. The Python shell is also called a REPL. REPL stands for **R**ead-**E**xecute-**P**rint-**R**epeat because that's exactly what it does.
-```
+```sh
 $ python3
 ```
 You should see something like this now....
@@ -32,7 +32,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 In this shell, you can enter anything that would be a valid line of Python. For now, let's just use it like a calculator.
-```
+```py
 >>> 3 * 9
 27
 >>> 
@@ -50,12 +50,12 @@ Mathematical operators to try out in Python
 |     **      | Exponential    |   5 ** 2   |
 
 You can also use parentheses to control precedence
-```
+```py
 >>> (2 + 3) * 3
 15
 ```
 Tip: You can use _ to get the previous result.
-```
+```py
 >>> 3 * 3
 9
 >>> _ + 3
