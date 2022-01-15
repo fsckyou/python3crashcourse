@@ -115,3 +115,6 @@ KeyboardInterrupt
 If you look closely, you see the characters ^C right before the error, meaning control + c was pressed at that point. This key combination will get you out of most situations where your program runs indefinitely, so it’s good to remember it!
 
 Infinite loops are less common in for-loops because most iterable objects will at some point run out of elements to iterate over. However, if you ever find yourself in an infinite for-loop, you can use this same trick to get out of it.
+
+---
+[Prev: Booleans](<4-Booleans.md>)   |   [Next: Functions](<6-Functions.md>)

@@ -191,3 +191,6 @@ If you don’t want to use named parameters, you can. When you rely on position 
 Hi Erik welcome to your home
 ```
 Oof that was a lot. Still doin' ok?
+
+---
+[Prev: Loops](<5-Loops.md>)   |   [Next: First Program](<7-First Program.md>)

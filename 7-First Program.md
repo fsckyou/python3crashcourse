@@ -36,3 +36,6 @@ Let's go through what's happening as a class
 ## How about this?
 Create an infinite loop that keeps asking for names,
 and that keeps greeting us using the entered name.
+
+---
+[Prev: Functions](<6-Functions.md>)   |   [Next: Comments](<8-Comments.md>)

@@ -152,3 +152,6 @@ Here are a couple more examples you can try for yourself as well, inside the REP
 >>> f'My age is, unfortunately, not {my_age-8}'
 'My age is, unfortunately, not 32'
 ```
+
+---
+[Prev: Variables](<2-Variables.md>)   |   [Next: Booleans](<4-Booleans.md>)

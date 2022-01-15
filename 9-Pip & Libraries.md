@@ -32,3 +32,6 @@ import pyramidtext
 print(pyramidtext.generate("Hello World!"))
 ```
 This same process works for any package you can find!
+
+---
+[Prev: Comments](<8-Comments.md>)   |   [Next: Fun Projects](<10-Fun Projects.md>)

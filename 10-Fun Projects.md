@@ -27,3 +27,6 @@ print("Decoded text is: ", val)
 
 ## More projects!
 Just hit up Google or your favorite search engine! Here's a good list on geeksforgeeks.org: [https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/](https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/)
+
+---
+[Prev: Pip & Modules](<9-Pip & Libraries.md>)

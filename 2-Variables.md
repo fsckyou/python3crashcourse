@@ -49,3 +49,6 @@ If you ever want to know what datatype a variable is holding, use something call
 <class 'float'>
 ```
 Next we'll learn all about another datatype for text!
+
+---
+[Prev: Installation and the Python Shell](<1-Installation and the Python shell.md>)   |   [Next: Strings](<3-Strings.md>)

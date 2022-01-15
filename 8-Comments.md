@@ -26,3 +26,6 @@ There’s no special way to add multi-line comments, also called block comments.
 # line comments, as you can see!
 ```
 In Python (or any language, for that matter), it’s better to write clear, understandable code. So if you’re doing well, you should not need multi-line comments that often!
+
+---
+[Prev: First Program](<7-First Program.md>)   |   [Next: Pip & Modules](<9-Pip & Libraries.md>)

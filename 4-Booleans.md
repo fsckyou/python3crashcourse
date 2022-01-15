@@ -68,3 +68,6 @@ As can be seen in the examples, these operators work on strings too. Strings are
 - Digits are smaller than letters: ‘1’ < ‘a’
 
 You’re probably wondering what the logic is behind these rules. Internally, each character has a number in a table. The position in this table determines the order. It’s as simple as that. See Unicode on Wikipedia to learn more about it if you’re interested.
+
+---
+[Prev: Strings](<3-Strings.md>)   |   [Next: Loops](<5-Loops.md>)

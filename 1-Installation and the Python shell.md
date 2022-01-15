@@ -61,4 +61,6 @@ Tip: You can use _ to get the previous result.
 >>> _ + 3
 12
 ```
-[2. Variables](<2-Variables.md>)
+
+---
+[Next: Variables](<2-Variables.md>)
